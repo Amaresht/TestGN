@@ -1,0 +1,9 @@
+<suite name="DEVELOPMEN" parallel="methods" thread-count="2">
+    <test name="Smaple" >
+        
+        <classes>
+            <class name="module1.Sample" />
+        </classes>
+    </test>
+    
+</suite>
